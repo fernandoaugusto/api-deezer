@@ -1,0 +1,23 @@
+{
+  "name": "api-deezer",
+  "version": "1.0.0",
+  "description": "API entre ChatBot e Deezer",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "deezer-node-api": "^0.2.2",
+    "express": "^4.14.0",
+    "firebase-admin": "^4.0.2",
+    "linq.js": "^1.0.4",
+    "multer": "^1.2.0",
+    "multiplexjs": "^1.0.0",
+    "promise": "^7.1.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
